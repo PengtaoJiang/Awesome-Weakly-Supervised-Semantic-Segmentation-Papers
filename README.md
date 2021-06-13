@@ -18,9 +18,10 @@
 | :-----|:-----:|:---:|:---:|:----:|
 | Causal Intervention for Weakly-Supervised Semantic Segmentation | NeurIPS | Image | [PDF](https://arxiv.org/pdf/2009.12547.pdf) | [CODE](https://github.com/ZHANGDONG-NJUST/CONTA) |
 | Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation | ECCV | Image | [PDF](https://arxiv.org/pdf/2007.01947.pdf) | [CODE](https://github.com/GuoleiSun/MCIS_wsss) |
-| Weakly-Supervised Semantic Segmentation via Sub-category Exploration | CVPR | Image | [PDF](https://arxiv.org/pdf/2008.01183.pdf) | CODE |
+| Weakly-Supervised Semantic Segmentation via Sub-category Exploration | CVPR | Image | [PDF](https://arxiv.org/pdf/2008.01183.pdf) | [CODE](https://github.com/Juliachang/SC-CAM) |
 | Single-Stage Semantic Segmentation from Image Labels | CVPR | Image | [PDF](https://arxiv.org/pdf/2005.08104.pdf) | [CODE](https://github.com/visinf/1-stage-wseg) |
 | Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2004.04581.pdf) | [CODE](https://github.com/YudeWang/SEAM)
+| Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/js-fan/ICD)
 | Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach | AAAI | Image | [PDF](https://arxiv.org/pdf/1911.08039.pdf) | CODE
 | Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning | IJCV | Image | [PDF](https://arxiv.org/pdf/2002.08098.pdf) | CODE |
 | Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty Regularization | BMVC | Image | [PDF](https://arxiv.org/pdf/2008.01201.pdf) | CODE |
@@ -29,4 +30,6 @@
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation | ICCV | Image | [PDF](https://arxiv.org/pdf/1911.01370.pdf) | CODE
+| Integral Object Mining via Online Attention Accumulation | ICCV | Image | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Integral_Object_Mining_via_Online_Attention_Accumulation_ICCV_2019_paper.pdf) | [CODE](https://github.com/PengtaoJiang/OAA-PyTorch)
 | Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf) | [CODE](https://github.com/jiwoon-ahn/irn)
+| Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation | | ICCV | Image | [PDF](https://arxiv.org/pdf/1910.05475v2.pdf) | [CODE](https://github.com/yaoqi-zd/SGAN)
