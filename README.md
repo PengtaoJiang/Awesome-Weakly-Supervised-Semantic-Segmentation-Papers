@@ -10,6 +10,7 @@
 | Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation | CVPR | Box | [PDF](https://arxiv.org/pdf/2104.00905.pdf) | [CODE](https://cvlab.yonsei.ac.kr/projects/BANA) |
 | Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation | AAAI | Image | [PDF](https://arxiv.org/pdf/2103.07246.pdf) | [CODE](https://github.com/qjadud1994/DRS) |
 | Group-Wise Semantic Mining for Weakly Supervised Semantic Segmentation | AAAI | Image | [PDF](https://arxiv.org/pdf/2012.05007.pdf) | [CODE](https://github.com/Lixy1997/Group-WSSS) |
+| Puzzle-CAM: Improved localization via matching partial and full features | ICIP | Image | [pdf](https://arxiv.org/pdf/2101.11253.pdf) | [CODE](https://github.com/OFRIN/PuzzleCAM)
 | Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation | arXiv | Image | [PDF](https://arxiv.org/pdf/2103.01795.pdf) | [CODE](https://github.com/suyukun666/CDA) |
 | Weakly-Supervised Image Semantic Segmentation Using Graph Convolutional Networks | ICME | Image | [PDF](https://arxiv.org/pdf/2103.16762.pdf) | [CODE](https://github.com/Xavier-Pan/WSGCN) |
 
@@ -29,7 +30,9 @@
 ## 2019
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation | ICCV | Image | [PDF](https://arxiv.org/pdf/1911.01370.pdf) | CODE
+| Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation | ICCV | Image | [PDF](https://arxiv.org/pdf/1911.01370.pdf) | [CODE](https://github.com/shimoda-uec/ssdd)
 | Integral Object Mining via Online Attention Accumulation | ICCV | Image | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Integral_Object_Mining_via_Online_Attention_Accumulation_ICCV_2019_paper.pdf) | [CODE](https://github.com/PengtaoJiang/OAA-PyTorch)
 | Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf) | [CODE](https://github.com/jiwoon-ahn/irn)
-| Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation | | ICCV | Image | [PDF](https://arxiv.org/pdf/1910.05475v2.pdf) | [CODE](https://github.com/yaoqi-zd/SGAN)
+| Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation | ICCV | Image | [PDF](https://arxiv.org/pdf/1910.05475v2.pdf) | [CODE](https://github.com/yaoqi-zd/SGAN)
+| Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation | ICCV | Image | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Joint_Learning_of_Saliency_Detection_and_Weakly_Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf) | [CODE](https://github.com/zengxianyu/jsws) 
+| A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in Different Image Domains | IJCV | ~~~~ | [PDF](https://arxiv.org/pdf/1912.11186.pdf) | [CODE](https://github.com/lyndonchan/wsss-analysis)
