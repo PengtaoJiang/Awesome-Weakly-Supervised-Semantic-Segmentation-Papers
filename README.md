@@ -26,6 +26,7 @@
 | Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach | AAAI | Image | [PDF](https://arxiv.org/pdf/1911.08039.pdf) | CODE
 | Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning | IJCV | Image | [PDF](https://arxiv.org/pdf/2002.08098.pdf) | CODE |
 | Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty Regularization | BMVC | Image | [PDF](https://arxiv.org/pdf/2008.01201.pdf) | CODE |
+| Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation | TPAMI | Image | [PDF](http://mftp.mmcheng.net/Papers/21PAMI_InsImgDatasetWSIS.pdf) | [CODE](https://github.com/yun-liu/LIID) |
 
 ## 2019
 | Title | Venue | Supervision | PDF | CODE |
