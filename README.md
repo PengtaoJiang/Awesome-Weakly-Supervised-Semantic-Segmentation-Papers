@@ -21,4 +21,5 @@
 | Weakly-Supervised Semantic Segmentation via Sub-category Exploration | CVPR | Image | [PDF](https://arxiv.org/pdf/2008.01183.pdf) | CODE |
 | Single-Stage Semantic Segmentation from Image Labels | CVPR | Image | [PDF](https://arxiv.org/pdf/2005.08104.pdf) | [CODE](https://github.com/visinf/1-stage-wseg) |
 | Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2004.04581.pdf) | [CODE](https://github.com/YudeWang/SEAM)
+| Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning | IJCV | Image | [PDF](https://arxiv.org/pdf/2002.08098.pdf) | CODE |
 | Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty Regularization | BMVC | Image | [PDF](https://arxiv.org/pdf/2008.01201.pdf) | CODE |
