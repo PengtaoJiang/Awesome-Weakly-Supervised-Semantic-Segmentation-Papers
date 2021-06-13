@@ -1,4 +1,4 @@
-# Weakly-Supervised-Semantic-Segmentation-Paper
+# Weakly-Supervised-Semantic-Segmentation-Papers
 *NOTE:*  If I miss some paper, plese feel free to contact me (pt.jiang at mail.nankai.edu.cn).
 
 ## 2021
