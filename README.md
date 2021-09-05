@@ -4,6 +4,7 @@
 ## 2021
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Pseudo-mask Matters in Weakly-supervised Semantic Segmentation  | ICCV | Image | [PDF](https://arxiv.org/pdf/2108.12995.pdf) | [CODE](https://github.com/Eli-YiLi/PMM) |
 | Complementary Patch for Weakly Supervised Semantic Segmentation | ICCV | Image | [PDF](https://arxiv.org/abs/2108.03852) | CODE |
 | Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2103.14581.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom) |
 | Railroad is not a Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2105.08965.pdf) | [CODE](https://github.com/halbielee/EPS) |
