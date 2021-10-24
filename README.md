@@ -48,3 +48,8 @@
 | Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation | ICCV | Image | [PDF](https://arxiv.org/pdf/1910.05475v2.pdf) | [CODE](https://github.com/yaoqi-zd/SGAN)
 | Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation | ICCV | Image | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Joint_Learning_of_Saliency_Detection_and_Weakly_Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf) | [CODE](https://github.com/zengxianyu/jsws) 
 | A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in Different Image Domains | IJCV | ~~~~ | [PDF](https://arxiv.org/pdf/1912.11186.pdf) | [CODE](https://github.com/lyndonchan/wsss-analysis)
+
+## 2018
+| Title | Venue | Supervision | PDF | CODE |
+| :-----|:-----:|:---:|:---:|:----:|
+| Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) | [CODE](https://github.com/speedinghzl/DSRG) |
