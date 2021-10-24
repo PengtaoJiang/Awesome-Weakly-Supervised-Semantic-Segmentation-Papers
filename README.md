@@ -32,8 +32,9 @@
 | Weakly-Supervised Semantic Segmentation via Sub-category Exploration | CVPR | Image | [PDF](https://arxiv.org/pdf/2008.01183.pdf) | [CODE](https://github.com/Juliachang/SC-CAM) |
 | Single-Stage Semantic Segmentation from Image Labels | CVPR | Image | [PDF](https://arxiv.org/pdf/2005.08104.pdf) | [CODE](https://github.com/visinf/1-stage-wseg) |
 | Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2004.04581.pdf) | [CODE](https://github.com/YudeWang/SEAM)
-| Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/js-fan/ICD)
+| Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/js-fan/ICD) 
 | Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach | AAAI | Image | [PDF](https://arxiv.org/pdf/1911.08039.pdf) | CODE
+| CIAN: Cross-Image Afﬁnity Net for Weakly Supervised Semantic Segmentation | AAAI | Image | [PDF](https://arxiv.org/pdf/1811.10842.pdf) | [CODE](https://github.com/js-fan/CIAN)
 | Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning | IJCV | Image | [PDF](https://arxiv.org/pdf/2002.08098.pdf) | CODE |
 | Mixup-CAM: Weakly-supervised Semantic Segmentation via Uncertainty Regularization | BMVC | Image | [PDF](https://arxiv.org/pdf/2008.01201.pdf) | CODE |
 | Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation | TPAMI | Image | [PDF](http://mftp.mmcheng.net/Papers/21PAMI_InsImgDatasetWSIS.pdf) | [CODE](https://github.com/yun-liu/LIID) |
