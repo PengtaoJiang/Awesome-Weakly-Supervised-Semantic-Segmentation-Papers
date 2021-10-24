@@ -4,7 +4,7 @@
 ## 2021
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Online Attention Accumulation for Weakly Supervised Semantic Segmentation | TPAMI | Image | [PDF](https://mftp.mmcheng.net/Papers/21PAMI-OAA_PAMI.pdf) | CODE |
+| Online Attention Accumulation for Weakly Supervised Semantic Segmentation | TPAMI | Image | [PDF](https://mftp.mmcheng.net/Papers/21PAMI-OAA_PAMI.pdf) | [CODE](https://github.com/PengtaoJiang/OAA-PyTorch) |
 | End-to-end Boundary Exploration for Weakly-supervised Semantic Segmentation | Multimedia | Image | [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475402) | CODE |
 | Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation | NeurIPS | Image | [PDF](https://arxiv.org/pdf/2110.06530.pdf) | [CODE](https://github.com/jbeomlee93/RIB) |
 | Unlocking the Potential of Ordinary Classifier: Class-Specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation | ICCV | Image | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Kweon_Unlocking_the_Potential_of_Ordinary_Classifier_Class-Specific_Adversarial_Erasing_Framework_ICCV_2021_paper.pdf) | [CODE](https://github.com/KAIST-vilab/OC-CSE) |
