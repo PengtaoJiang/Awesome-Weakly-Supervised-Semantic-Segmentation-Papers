@@ -30,6 +30,7 @@
 | Causal Intervention for Weakly-Supervised Semantic Segmentation | NeurIPS | Image | [PDF](https://arxiv.org/pdf/2009.12547.pdf) | [CODE](https://github.com/ZHANGDONG-NJUST/CONTA) |
 | Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation | ECCV | Image | [PDF](https://arxiv.org/pdf/2007.01947.pdf) | [CODE](https://github.com/GuoleiSun/MCIS_wsss) |
 | Weakly supervised semantic segmentation with boundary exploration | ECCV | Image | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710341.pdf) | CODE
+| Employing multi-estimations for weakly-supervised semantic segmentation | ECCV | Image | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620324.pdf) | CODE
 | Weakly-Supervised Semantic Segmentation via Sub-category Exploration | CVPR | Image | [PDF](https://arxiv.org/pdf/2008.01183.pdf) | [CODE](https://github.com/Juliachang/SC-CAM) |
 | Single-Stage Semantic Segmentation from Image Labels | CVPR | Image | [PDF](https://arxiv.org/pdf/2005.08104.pdf) | [CODE](https://github.com/visinf/1-stage-wseg) |
 | Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2004.04581.pdf) | [CODE](https://github.com/YudeWang/SEAM)
