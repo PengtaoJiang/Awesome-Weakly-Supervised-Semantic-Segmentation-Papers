@@ -1,5 +1,5 @@
 # Awesome-Weakly-Supervised-Semantic-Segmentation-Papers
-*NOTE:*  If I miss some paper, plese feel free to contact me (pt.jiang at mail.nankai.edu.cn).
+*NOTE:*  If I miss some paper, plese feel free to contact me (pt.jiang at mail.nankai.edu.cn). Feel free to send me a PR!
 
 ## 2021
 | Title | Venue | Supervision | PDF | CODE |
