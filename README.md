@@ -1,6 +1,14 @@
 # Awesome-Weakly-Supervised-Semantic-Segmentation-Papers
 *NOTE:*  If I miss some paper, plese feel free to contact me (pt.jiang at mail.nankai.edu.cn). Feel free to send me a PR!
 
+##2022
+| Title | Venue | Supervision | PDF | CODE |
+| :-----|:-----:|:---:|:---:|:----:|
+| Weakly Supervised Semantic Segmentation using Out-of-Distribution Data | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.03860.pdf) | [CODE](https://github.com/naver-ai/w-ood) |
+| Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.00962.pdf) | [CODE](https://github.com/zhaozhengChen/ReCAM) |
+|Multi-class Token Transformer for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.02891.pdf) | [CODE](https://github.com/xulianuwa/MCTformer) |
+|Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformer | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.02664.pdf) | [CODE](https://github.com/rulixiang/afa) |
+
 ## 2021
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
