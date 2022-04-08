@@ -8,7 +8,7 @@
 | Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.00962.pdf) | [CODE](https://github.com/zhaozhengChen/ReCAM) |
 |Multi-class Token Transformer for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.02891.pdf) | [CODE](https://github.com/xulianuwa/MCTformer) |
 |Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformer | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.02664.pdf) | [CODE](https://github.com/rulixiang/afa) |
-|L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/abs/2204.03206) | CODE |
+|L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/abs/2204.03206) | [CODE](https://github.com/PengtaoJiang/L2G) |
 ## 2021
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
