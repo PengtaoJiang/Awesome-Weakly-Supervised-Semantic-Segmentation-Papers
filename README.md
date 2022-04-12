@@ -9,6 +9,7 @@
 |Multi-class Token Transformer for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.02891.pdf) | [CODE](https://github.com/xulianuwa/MCTformer) |
 |Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformer | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.02664.pdf) | [CODE](https://github.com/rulixiang/afa) |
 |L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/abs/2204.03206) | [CODE](https://github.com/PengtaoJiang/L2G) |
+| Threshold Matters in WSSS: Manipulating the Activation for the Robust and Accurate Segmentation Model Against Thresholds | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.16045.pdf) | [CODE](https://github.com/gaviotas/AMN)|
 |Cross Language Image Matching for Weakly Supervised Semantic Segmentation | CVPR | Image+Language | [PDF](https://arxiv.org/pdf/2203.02668.pdf) | [CODE](https://github.com/CVI-SZU/CLIMS) | 
 | Uncertainty Estimation via Response Scaling for Pseudo-mask Noise Mitigation in Weakly-supervised Semantic Segmentation | AAAI | Image | [PDF](https://arxiv.org/pdf/2112.07431.pdf) | [CODE](https://github.com/XMed-Lab/URN)|
 
