@@ -4,6 +4,7 @@
 ##2022
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+|  Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast | CVPR | Image | [PDF](https://arxiv.org/abs/2110.07110) | [CODE](https://github.com/usr922/wseg) |
 | Weakly Supervised Semantic Segmentation using Out-of-Distribution Data | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.03860.pdf) | [CODE](https://github.com/naver-ai/w-ood) |
 | Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.00962.pdf) | [CODE](https://github.com/zhaozhengChen/ReCAM) |
 |Multi-class Token Transformer for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.02891.pdf) | [CODE](https://github.com/xulianuwa/MCTformer) |
