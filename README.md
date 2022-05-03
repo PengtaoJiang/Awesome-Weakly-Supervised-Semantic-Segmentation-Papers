@@ -14,6 +14,7 @@
 | Threshold Matters in WSSS: Manipulating the Activation for the Robust and Accurate Segmentation Model Against Thresholds | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.16045.pdf) | [CODE](https://github.com/gaviotas/AMN)|
 |Cross Language Image Matching for Weakly Supervised Semantic Segmentation | CVPR | Image+Language | [PDF](https://arxiv.org/pdf/2203.02668.pdf) | [CODE](https://github.com/CVI-SZU/CLIMS) | 
 | Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.13505.pdf) | [CODE](https://github.com/CVI-SZU/CCAM) |
+| Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.09653.pdf) | [CODE](https://github.com/maeve07/RCA) |
 | Uncertainty Estimation via Response Scaling for Pseudo-mask Noise Mitigation in Weakly-supervised Semantic Segmentation | AAAI | Image | [PDF](https://arxiv.org/pdf/2112.07431.pdf) | [CODE](https://github.com/XMed-Lab/URN)|
 | Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learning | TPAMI | Image | [PDF](https://ieeexplore.ieee.org/abstract/document/9760057) | [CODE](https://github.com/GuoleiSun/MCIS_wsss) |
 
