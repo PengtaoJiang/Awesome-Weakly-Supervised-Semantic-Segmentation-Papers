@@ -1,4 +1,4 @@
-# Awesome-Weakly-Supervised-Semantic-Segmentation-Papers
+# Awesome-Weakly-Supervised-Semantic-Segmentation-Papers[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 *NOTE:*  If I miss some paper, plese feel free to contact me (pt.jiang at mail.nankai.edu.cn). Feel free to send me a PR!
 
 ##2022
