@@ -5,6 +5,7 @@
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Saliency Guided Inter- and Intra-Class Relation Constraints for Weakly Supervised Semantic Segmentation | TMM | Image | [PDF](https://arxiv.org/pdf/2206.09554.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/I2CRC) |
+| C2AM: Contrastive Learning of Class-Agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_C2AM_Contrastive_Learning_of_Class-Agnostic_Activation_Map_for_Weakly_Supervised_CVPR_2022_paper.pdf) | [CODE](https://github.com/CVI-SZU/CCAM) |
 | Towards Noiseless Object Contours for Weakly Supervised Semantic Segmentation| CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Noiseless_Object_Contours_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) | [CODE](https://github.com/BraveGroup/SANCE) |
 | Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://arxiv.org/abs/2203.02909) | [CODE](https://github.com/chenqi1126/SIPE) |
 |  Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast | CVPR | Image | [PDF](https://arxiv.org/abs/2110.07110) | [CODE](https://github.com/usr922/wseg) |
