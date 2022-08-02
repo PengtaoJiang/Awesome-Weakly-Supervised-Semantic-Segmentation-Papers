@@ -4,6 +4,7 @@
 ## 2022
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization | TPAMI | Image | [PDF](https://arxiv.org/pdf/2204.04890.pdf) | CODE |
 | Saliency Guided Inter- and Intra-Class Relation Constraints for Weakly Supervised Semantic Segmentation | TMM | Image | [PDF](https://arxiv.org/pdf/2206.09554.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/I2CRC) |
 | C2AM: Contrastive Learning of Class-Agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_C2AM_Contrastive_Learning_of_Class-Agnostic_Activation_Map_for_Weakly_Supervised_CVPR_2022_paper.pdf) | [CODE](https://github.com/CVI-SZU/CCAM) |
 | Towards Noiseless Object Contours for Weakly Supervised Semantic Segmentation| CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Noiseless_Object_Contours_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2022_paper.pdf) | [CODE](https://github.com/BraveGroup/SANCE) |
