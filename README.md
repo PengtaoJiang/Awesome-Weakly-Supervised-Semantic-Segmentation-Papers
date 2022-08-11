@@ -80,3 +80,9 @@
 | Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf) | [CODE](https://github.com/jiwoon-ahn/psa)|
 |Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) | [CODE]()|
 | Self-Erasing Network for Integral Object Attention | NeurIPS | Image | [PDF](https://proceedings.neurips.cc/paper/2018/file/c042f4db68f23406c6cecf84a7ebb0fe-Paper.pdf) | [CODE](https://github.com/Andrew-Qibin/SeeNet) |
+｜Tell me where to look: Guided attention inference network｜CVPR ｜ Image ｜[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Tell_Me_Where_CVPR_2018_paper.pdf)｜ [CODE](https://github.com/alokwhitewolf/Guided-Attention-Inference-Network) |
+
+## 2017 
+| Title | Venue | Supervision | PDF | CODE |
+| :-----|:-----:|:---:|:---:|:----:|
+|Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf) | CODE|
