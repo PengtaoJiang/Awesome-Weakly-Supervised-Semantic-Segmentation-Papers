@@ -27,36 +27,36 @@
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
 | Online Attention Accumulation for Weakly Supervised Semantic Segmentation | OAA | TPAMI | Image | [PDF](https://mftp.mmcheng.net/Papers/21PAMI-OAA_PAMI.pdf) | [CODE](https://github.com/PengtaoJiang/OAA-PyTorch) |
 | End-to-end Boundary Exploration for Weakly-supervised Semantic Segmentation || Multimedia | Image | [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475402) | CODE |
-| Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation || NeurIPS | Image | [PDF](https://arxiv.org/pdf/2110.06530.pdf) | [CODE](https://github.com/jbeomlee93/RIB) |
+| Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation | RIB | NeurIPS | Image | [PDF](https://arxiv.org/pdf/2110.06530.pdf) | [CODE](https://github.com/jbeomlee93/RIB) |
 | Unlocking the Potential of Ordinary Classifier: Class-Specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation || ICCV | Image | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Kweon_Unlocking_the_Potential_of_Ordinary_Classifier_Class-Specific_Adversarial_Erasing_Framework_ICCV_2021_paper.pdf) | [CODE](https://github.com/KAIST-vilab/OC-CSE) |
 | ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using Connections Between Class Activation Maps | ECS-Net | ICCV | Image | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_ECS-Net_Improving_Weakly_Supervised_Semantic_Segmentation_by_Using_Connections_Between_ICCV_2021_paper.pdf) | CODE |
-| Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation || ICCV | Image | [PDF](https://arxiv.org/pdf/2107.11787.pdf) |[CODE](https://github.com/xulianuwa/AuxSegNet) |
-| Pseudo-mask Matters in Weakly-supervised Semantic Segmentation  || ICCV | Image | [PDF](https://arxiv.org/pdf/2108.12995.pdf) | [CODE](https://github.com/Eli-YiLi/PMM) |
+| Leveraging Auxiliary Tasks with Affinity Learning for Weakly Supervised Semantic Segmentation | AuxSegNet | ICCV | Image | [PDF](https://arxiv.org/pdf/2107.11787.pdf) |[CODE](https://github.com/xulianuwa/AuxSegNet) |
+| Pseudo-mask Matters in Weakly-supervised Semantic Segmentation  | PMM | ICCV | Image | [PDF](https://arxiv.org/pdf/2108.12995.pdf) | [CODE](https://github.com/Eli-YiLi/PMM) |
 | Complementary Patch for Weakly Supervised Semantic Segmentation || ICCV | Image | [PDF](https://arxiv.org/abs/2108.03852) | CODE |
-| Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation || CVPR | Image | [PDF](https://arxiv.org/pdf/2103.14581.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom) |
+| Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation | NSROM | CVPR | Image | [PDF](https://arxiv.org/pdf/2103.14581.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom) |
 | Railroad is not a Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation | EPS | CVPR | Image | [PDF](https://arxiv.org/pdf/2105.08965.pdf) | [CODE](https://github.com/halbielee/EPS) |
-| Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation || CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Embedded_Discriminative_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2021_paper.pdf) | [CODE](https://github.com/allenwu97/EDAM) |
-| Anti-adversarially manipulated attributions for weakly and semi-supervised semantic segmentation || CVPR | Image & Semi | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Anti-Adversarially_Manipulated_Attributions_for_Weakly_and_Semi-Supervised_Semantic_Segmentation_CVPR_2021_paper.pdf) |[CODE](https://github.com/jbeomlee93/AdvCAM) |
+| Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation | EDAM | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Embedded_Discriminative_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2021_paper.pdf) | [CODE](https://github.com/allenwu97/EDAM) |
+| Anti-adversarially manipulated attributions for weakly and semi-supervised semantic segmentation | AdvCAM | CVPR | Image & Semi | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Anti-Adversarially_Manipulated_Attributions_for_Weakly_and_Semi-Supervised_Semantic_Segmentation_CVPR_2021_paper.pdf) |[CODE](https://github.com/jbeomlee93/AdvCAM) |
 | BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation | BBAM | CVPR | Box | [PDF](https://arxiv.org/pdf/2103.08907.pdf) | [CODE](https://github.com/jbeomlee93/BBAM) |
 | Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation || CVPR | Box | [PDF](https://arxiv.org/pdf/2104.00905.pdf) | [CODE](https://cvlab.yonsei.ac.kr/projects/BANA) |
-| Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation || AAAI | Image | [PDF](https://arxiv.org/pdf/2103.07246.pdf) | [CODE](https://github.com/qjadud1994/DRS) |
-| Group-Wise Semantic Mining for Weakly Supervised Semantic Segmentation || AAAI | Image | [PDF](https://arxiv.org/pdf/2012.05007.pdf) | [CODE](https://github.com/Lixy1997/Group-WSSS) |
-| Puzzle-CAM: Improved localization via matching partial and full features || ICIP | Image | [pdf](https://arxiv.org/pdf/2101.11253.pdf) | [CODE](https://github.com/OFRIN/PuzzleCAM)
+| Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation | DRS | AAAI | Image | [PDF](https://arxiv.org/pdf/2103.07246.pdf) | [CODE](https://github.com/qjadud1994/DRS) |
+| Group-Wise Semantic Mining for Weakly Supervised Semantic Segmentation | Group-WSSS | AAAI | Image | [PDF](https://arxiv.org/pdf/2012.05007.pdf) | [CODE](https://github.com/Lixy1997/Group-WSSS) |
+| Puzzle-CAM: Improved localization via matching partial and full features | PuzzleCAM | ICIP | Image | [pdf](https://arxiv.org/pdf/2101.11253.pdf) | [CODE](https://github.com/OFRIN/PuzzleCAM)
 | Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation || arXiv | Image | [PDF](https://arxiv.org/pdf/2103.01795.pdf) | [CODE](https://github.com/suyukun666/CDA) |
 | Weakly-Supervised Image Semantic Segmentation Using Graph Convolutional Networks || ICME | Image | [PDF](https://arxiv.org/pdf/2103.16762.pdf) | [CODE](https://github.com/Xavier-Pan/WSGCN) |
 
 ## 2020
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
-| Causal Intervention for Weakly-Supervised Semantic Segmentation || NeurIPS | Image | [PDF](https://arxiv.org/pdf/2009.12547.pdf) | [CODE](https://github.com/ZHANGDONG-NJUST/CONTA) |
-| Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation || ECCV | Image | [PDF](https://arxiv.org/pdf/2007.01947.pdf) | [CODE](https://github.com/GuoleiSun/MCIS_wsss) |
+| Causal Intervention for Weakly-Supervised Semantic Segmentation | CONTA | NeurIPS | Image | [PDF](https://arxiv.org/pdf/2009.12547.pdf) | [CODE](https://github.com/ZHANGDONG-NJUST/CONTA) |
+| Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation | MCIS | ECCV | Image | [PDF](https://arxiv.org/pdf/2007.01947.pdf) | [CODE](https://github.com/GuoleiSun/MCIS_wsss) |
 | Weakly supervised semantic segmentation with boundary exploration || ECCV | Image | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710341.pdf) | CODE
 | Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation || ECCV | Image | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670664.pdf) | CODE
 | Employing multi-estimations for weakly-supervised semantic segmentation || ECCV | Image | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620324.pdf) | CODE
-| Weakly-Supervised Semantic Segmentation via Sub-category Exploration || CVPR | Image | [PDF](https://arxiv.org/pdf/2008.01183.pdf) | [CODE](https://github.com/Juliachang/SC-CAM) |
+| Weakly-Supervised Semantic Segmentation via Sub-category Exploration | SC-CAM | CVPR | Image | [PDF](https://arxiv.org/pdf/2008.01183.pdf) | [CODE](https://github.com/Juliachang/SC-CAM) |
 | Single-Stage Semantic Segmentation from Image Labels || CVPR | Image | [PDF](https://arxiv.org/pdf/2005.08104.pdf) | [CODE](https://github.com/visinf/1-stage-wseg) |
-| Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation || CVPR | Image | [PDF](https://arxiv.org/pdf/2004.04581.pdf) | [CODE](https://github.com/YudeWang/SEAM)
-| Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation || CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/js-fan/ICD) 
+| Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation | SEAM | CVPR | Image | [PDF](https://arxiv.org/pdf/2004.04581.pdf) | [CODE](https://github.com/YudeWang/SEAM)
+| Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation | ICD | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/js-fan/ICD) 
 | Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach || AAAI | Image | [PDF](https://arxiv.org/pdf/1911.08039.pdf) | CODE
 | CIAN: Cross-Image Afﬁnity Net for Weakly Supervised Semantic Segmentation | CIAN | AAAI | Image | [PDF](https://arxiv.org/pdf/1811.10842.pdf) | [CODE](https://github.com/js-fan/CIAN)
 | Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning || IJCV | Image | [PDF](https://arxiv.org/pdf/2002.08098.pdf) | CODE |
