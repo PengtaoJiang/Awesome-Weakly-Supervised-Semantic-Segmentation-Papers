@@ -4,6 +4,9 @@
 ## 2022
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Dual Progressive Transformations for Weakly Supervised Semantic Segmentation | | arXiv | Image | [PDF](https://arxiv.org/pdf/2209.15211.pdf) | [CODE]() |
+| Expansion and Shrinkage of Localization for Weakly-Supervised Semantic Segmentation | ESOL| NeurIPS | Image | [PDF](https://arxiv.org/pdf/2209.07761.pdf) | [CODE](https://github.com/TyroneLi/ESOL_WSSS) | 
+| Weakly Supervised Semantic Segmentation via Progressive Patch Learning | PPL | TMM | Image | [PDF](https://arxiv.org/pdf/2209.07828.pdf) | [CODE](https://github.com/TyroneLi/PPL_WSSS) | 
 | Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization | AdvCAM | TPAMI | Image | [PDF](https://arxiv.org/pdf/2204.04890.pdf) | CODE |
 | Saliency Guided Inter- and Intra-Class Relation Constraints for Weakly Supervised Semantic Segmentation || TMM | Image | [PDF](https://arxiv.org/pdf/2206.09554.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/I2CRC) ||
 | C2AM: Contrastive Learning of Class-Agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | C2AM | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_C2AM_Contrastive_Learning_of_Class-Agnostic_Activation_Map_for_Weakly_Supervised_CVPR_2022_paper.pdf) | [CODE](https://github.com/CVI-SZU/CCAM) ||
