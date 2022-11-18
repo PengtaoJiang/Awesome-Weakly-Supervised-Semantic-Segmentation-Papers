@@ -4,6 +4,7 @@
 ## 2022
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+|Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation | ViT-PCM | ECCV | Image | [PDF](https://arxiv.org/pdf/2210.17400.pdf) | [CODE]() | 
 | Dual Progressive Transformations for Weakly Supervised Semantic Segmentation | | arXiv | Image | [PDF](https://arxiv.org/pdf/2209.15211.pdf) | [CODE]() |
 | Expansion and Shrinkage of Localization for Weakly-Supervised Semantic Segmentation | ESOL| NeurIPS | Image | [PDF](https://arxiv.org/pdf/2209.07761.pdf) | [CODE](https://github.com/TyroneLi/ESOL_WSSS) | 
 | Weakly Supervised Semantic Segmentation via Progressive Patch Learning | PPL | TMM | Image | [PDF](https://arxiv.org/pdf/2209.07828.pdf) | [CODE](https://github.com/TyroneLi/PPL_WSSS) | 
