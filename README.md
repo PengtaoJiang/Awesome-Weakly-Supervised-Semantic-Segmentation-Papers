@@ -1,6 +1,12 @@
 # Awesome-Weakly-Supervised-Semantic-Segmentation-Papers[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 *NOTE:*  If I miss some paper, plese feel free to contact me (pt.jiang at mail.nankai.edu.cn). Feel free to send me a PR!
 
+## 2023
+| Title | Abbreviation | Venue | Supervision | PDF | CODE |
+| :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Token Contrast for Weakly-Supervised Semantic Segmentation | ToCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.01267.pdf) | [CODE](https://github.com/rulixiang/ToCo) | 
+|Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation | SCD | AAAI | Image | [PDF](https://arxiv.org/abs/2302.13765) | [CODE](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/SCD-AAAI2023) |
+
 ## 2022
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
