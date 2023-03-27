@@ -5,6 +5,7 @@
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
 | Token Contrast for Weakly-Supervised Semantic Segmentation | ToCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.01267.pdf) | [CODE](https://github.com/rulixiang/ToCo) | 
+| Extracting Class Activation Maps from Non-Discriminative Features as well | LPCAM | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.10334.pdf) | [CODE](https://github.com/zhaozhengChen/LPCAM) |
 |Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation | SCD | AAAI | Image | [PDF](https://arxiv.org/abs/2302.13765) | [CODE](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/SCD-AAAI2023) |
 | CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation | CLIP-ES | CVPR | Image + CLIP | [PDF](https://arxiv.org/pdf/2212.09506.pdf) | [CODE](https://github.com/linyq2117/CLIP-ES) |
 ## 2022
