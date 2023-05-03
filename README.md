@@ -4,6 +4,8 @@
 ## 2023
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation | SG-WSSS | arXiv | Image | [PDF](https://arxiv.org/pdf/2305.01275.pdf) | [CODE]() |
+| An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems | -- | arXiv | Image | [PDF](https://arxiv.org/pdf/2305.01586.pdf) | [CODE]() |
 | Token Contrast for Weakly-Supervised Semantic Segmentation | ToCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.01267.pdf) | [CODE](https://github.com/rulixiang/ToCo) | 
 | Extracting Class Activation Maps from Non-Discriminative Features as well | LPCAM | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.10334.pdf) | [CODE](https://github.com/zhaozhengChen/LPCAM) |
 |Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation | SCD | AAAI | Image | [PDF](https://arxiv.org/abs/2302.13765) | [CODE](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/SCD-AAAI2023) |
