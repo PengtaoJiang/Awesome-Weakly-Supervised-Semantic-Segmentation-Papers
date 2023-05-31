@@ -9,9 +9,11 @@
 | Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation | -- | arXiv | Image + SAM| [PDF](https://arxiv.org/pdf/2305.05803.pdf) | [CODE](https://github.com/cskyl/SAM_WSSS) |
 | An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems | -- | arXiv | Image + SAM | [PDF](https://arxiv.org/pdf/2305.01586.pdf) | [CODE]() |
 | Token Contrast for Weakly-Supervised Semantic Segmentation | ToCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.01267.pdf) | [CODE](https://github.com/rulixiang/ToCo) | 
+| Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization | MMCST | CVPR | Image + CLIP | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) | [CODE](https://github.com/xulianuwa/MMCST) | 
 | Extracting Class Activation Maps from Non-Discriminative Features as well | LPCAM | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.10334.pdf) | [CODE](https://github.com/zhaozhengChen/LPCAM) |
-|Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation | SCD | AAAI | Image | [PDF](https://arxiv.org/abs/2302.13765) | [CODE](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/SCD-AAAI2023) |
 | CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation | CLIP-ES | CVPR | Image + CLIP | [PDF](https://arxiv.org/pdf/2212.09506.pdf) | [CODE](https://github.com/linyq2117/CLIP-ES) |
+|Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation | SCD | AAAI | Image | [PDF](https://arxiv.org/abs/2302.13765) | [CODE](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/SCD-AAAI2023) |
+
 ## 2022
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
