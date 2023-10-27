@@ -11,6 +11,7 @@
 | Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor | ACR | CVPR | Image |[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Kweon_Weakly_Supervised_Semantic_Segmentation_via_Adversarial_Learning_of_Classifier_and_CVPR_2023_paper.pdf) | [CODE](https://github.com/sangrockEG/ACR) |
 | Multi-Granularity Denoising and Bidirectional Alignment for Weakly Supervised Semantic Segmentation | MDBA | TIP | Image | [PDF](https://arxiv.org/pdf/2305.05154.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/MDBA) |
 | Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation | SG-WSSS | arXiv | Image + SAM | [PDF](https://arxiv.org/pdf/2305.01275.pdf) | [CODE]() |
+| Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models | -- | arXiv | Image + SAM | [PDF](https://arxiv.org/pdf/2310.13026.pdf) | [CODE]() |
 | Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation | -- | arXiv | Image + SAM| [PDF](https://arxiv.org/pdf/2305.05803.pdf) | [CODE](https://github.com/cskyl/SAM_WSSS) |
 | An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems | -- | arXiv | Image + SAM | [PDF](https://arxiv.org/pdf/2305.01586.pdf) | [CODE]() |
 | Token Contrast for Weakly-Supervised Semantic Segmentation | ToCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.01267.pdf) | [CODE](https://github.com/rulixiang/ToCo) | 
