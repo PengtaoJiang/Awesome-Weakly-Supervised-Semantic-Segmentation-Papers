@@ -4,6 +4,7 @@
 ## 2023
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| QA-CLIMS: Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation | QA-CLIMS | MM | Image+CLIP | [PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3612148) | [CODE]() |
 |Treating Pseudo-labels Generation as Image Matting for Weakly Supervised Semantic Segmentation | D2CAM | ICCV | Image | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Treating_Pseudo-labels_Generation_as_Image_Matting_for_Weakly_Supervised_Semantic_ICCV_2023_paper.pdf) | CODE|
 | MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation | MARS | ICCV | Image | [PDF](https://arxiv.org/pdf/2304.09913.pdf) | [CODE](https://github.com/shjo-april/MARS) |
 | Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation | BECO | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf) | [CODE](https://github.com/ShenghaiRong/BECO) |
