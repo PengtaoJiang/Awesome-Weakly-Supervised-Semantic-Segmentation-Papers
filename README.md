@@ -4,6 +4,7 @@
 ## 2023
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Spatial Structure Constraints for Weakly Supervised Semantic Segmentation | SSC | TIP | Image | [PDF](https://arxiv.org/pdf/2401.11122.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC) |
 | Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation | PFSR | AAAI | Image | [PDF](https://arxiv.org/pdf/2312.08916.pdf) | [CODE](https://github.com/Jessie459/feature-self-reinforcement) |
 | Foundation Model Assisted Weakly Supervised Semantic Segmentation | SAMS | arXiv | Image+SAM | [PDF](https://arxiv.org/pdf/2312.03585.pdf) | [CODE]() |
 | QA-CLIMS: Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation | QA-CLIMS | MM | Image+CLIP | [PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3612148) | [CODE]() |
