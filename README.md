@@ -12,6 +12,7 @@
 ## 2023
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| CUTS: A Framework for Multigranular Unsupervised Medical Image Segmentation | CUTS | arXiv | Image | [PDF](https://arxiv.org/pdf/2209.11359.pdf) | [CODE](https://github.com/ChenLiu-1996/CUTS) |
 | Spatial Structure Constraints for Weakly Supervised Semantic Segmentation | SSC | TIP | Image | [PDF](https://arxiv.org/pdf/2401.11122.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC) |
 | Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation | PFSR | AAAI | Image | [PDF](https://arxiv.org/pdf/2312.08916.pdf) | [CODE](https://github.com/Jessie459/feature-self-reinforcement) |
 | Foundation Model Assisted Weakly Supervised Semantic Segmentation | SAMS | arXiv | Image+SAM | [PDF](https://arxiv.org/pdf/2312.03585.pdf) | [CODE]() |
@@ -19,15 +20,15 @@
 |Treating Pseudo-labels Generation as Image Matting for Weakly Supervised Semantic Segmentation | D2CAM | ICCV | Image | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Treating_Pseudo-labels_Generation_as_Image_Matting_for_Weakly_Supervised_Semantic_ICCV_2023_paper.pdf) | CODE|
 | MARS: Model-agnostic Biased Object Removal without Additional Supervision for Weakly-Supervised Semantic Segmentation | MARS | ICCV | Image | [PDF](https://arxiv.org/pdf/2304.09913.pdf) | [CODE](https://github.com/shjo-april/MARS) |
 | Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation | BECO | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf) | [CODE](https://github.com/ShenghaiRong/BECO) |
-| Out-of-Candidate Rectification for Weakly Supervised Semantic Segmentation | OCR | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Cheng_Out-of-Candidate_Rectification_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf) | [CODE](https://github.com/sennnnn/Out-of-Candidate-Rectification) | 
+| Out-of-Candidate Rectification for Weakly Supervised Semantic Segmentation | OCR | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Cheng_Out-of-Candidate_Rectification_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf) | [CODE](https://github.com/sennnnn/Out-of-Candidate-Rectification) |
 | Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor | ACR | CVPR | Image |[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Kweon_Weakly_Supervised_Semantic_Segmentation_via_Adversarial_Learning_of_Classifier_and_CVPR_2023_paper.pdf) | [CODE](https://github.com/sangrockEG/ACR) |
 | Multi-Granularity Denoising and Bidirectional Alignment for Weakly Supervised Semantic Segmentation | MDBA | TIP | Image | [PDF](https://arxiv.org/pdf/2305.05154.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/MDBA) |
 | Segment Anything is A Good Pseudo-label Generator for Weakly Supervised Semantic Segmentation | SG-WSSS | arXiv | Image + SAM | [PDF](https://arxiv.org/pdf/2305.01275.pdf) | [CODE]() |
 | Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models | -- | arXiv | Image + SAM | [PDF](https://arxiv.org/pdf/2310.13026.pdf) | [CODE]() |
 | Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation | -- | arXiv | Image + SAM| [PDF](https://arxiv.org/pdf/2305.05803.pdf) | [CODE](https://github.com/cskyl/SAM_WSSS) |
 | An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems | -- | arXiv | Image + SAM | [PDF](https://arxiv.org/pdf/2305.01586.pdf) | [CODE]() |
-| Token Contrast for Weakly-Supervised Semantic Segmentation | ToCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.01267.pdf) | [CODE](https://github.com/rulixiang/ToCo) | 
-| Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization | MMCST | CVPR | Image + CLIP | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) | [CODE](https://github.com/xulianuwa/MMCST) | 
+| Token Contrast for Weakly-Supervised Semantic Segmentation | ToCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.01267.pdf) | [CODE](https://github.com/rulixiang/ToCo) |
+| Learning Multi-Modal Class-Specific Tokens for Weakly Supervised Dense Object Localization | MMCST | CVPR | Image + CLIP | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Multi-Modal_Class-Specific_Tokens_for_Weakly_Supervised_Dense_Object_Localization_CVPR_2023_paper.pdf) | [CODE](https://github.com/xulianuwa/MMCST) |
 | Extracting Class Activation Maps from Non-Discriminative Features as well | LPCAM | CVPR | Image | [PDF](https://arxiv.org/pdf/2303.10334.pdf) | [CODE](https://github.com/zhaozhengChen/LPCAM) |
 | Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation | BECO | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Rong_Boundary-Enhanced_Co-Training_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf) | [CODE](https://github.com/ShenghaiRong/BECO) |
 | CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation | CLIP-ES | CVPR | Image + CLIP | [PDF](https://arxiv.org/pdf/2212.09506.pdf) | [CODE](https://github.com/linyq2117/CLIP-ES) |
@@ -36,10 +37,10 @@
 ## 2022
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
-|Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation | ViT-PCM | ECCV | Image | [PDF](https://arxiv.org/pdf/2210.17400.pdf) | [CODE]() | 
+|Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation | ViT-PCM | ECCV | Image | [PDF](https://arxiv.org/pdf/2210.17400.pdf) | [CODE]() |
 | Dual Progressive Transformations for Weakly Supervised Semantic Segmentation | | arXiv | Image | [PDF](https://arxiv.org/pdf/2209.15211.pdf) | [CODE]() |
-| Expansion and Shrinkage of Localization for Weakly-Supervised Semantic Segmentation | ESOL| NeurIPS | Image | [PDF](https://arxiv.org/pdf/2209.07761.pdf) | [CODE](https://github.com/TyroneLi/ESOL_WSSS) | 
-| Weakly Supervised Semantic Segmentation via Progressive Patch Learning | PPL | TMM | Image | [PDF](https://arxiv.org/pdf/2209.07828.pdf) | [CODE](https://github.com/TyroneLi/PPL_WSSS) | 
+| Expansion and Shrinkage of Localization for Weakly-Supervised Semantic Segmentation | ESOL| NeurIPS | Image | [PDF](https://arxiv.org/pdf/2209.07761.pdf) | [CODE](https://github.com/TyroneLi/ESOL_WSSS) |
+| Weakly Supervised Semantic Segmentation via Progressive Patch Learning | PPL | TMM | Image | [PDF](https://arxiv.org/pdf/2209.07828.pdf) | [CODE](https://github.com/TyroneLi/PPL_WSSS) |
 | Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization | AdvCAM | TPAMI | Image | [PDF](https://arxiv.org/pdf/2204.04890.pdf) | CODE |
 | Saliency Guided Inter- and Intra-Class Relation Constraints for Weakly Supervised Semantic Segmentation | I<sup>2</sup>CRC | TMM | Image | [PDF](https://arxiv.org/pdf/2206.09554.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/I2CRC) ||
 | C2AM: Contrastive Learning of Class-Agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | C2AM | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_C2AM_Contrastive_Learning_of_Class-Agnostic_Activation_Map_for_Weakly_Supervised_CVPR_2022_paper.pdf) | [CODE](https://github.com/CVI-SZU/CCAM) ||
@@ -52,7 +53,7 @@
 |Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformer | AFA | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.02664.pdf) | [CODE](https://github.com/rulixiang/afa) ||
 |L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation | L2G | CVPR | Image | [PDF](https://arxiv.org/abs/2204.03206) | [CODE](https://github.com/PengtaoJiang/L2G) |
 | Threshold Matters in WSSS: Manipulating the Activation for the Robust and Accurate Segmentation Model Against Thresholds | AMN | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.16045.pdf) | [CODE](https://github.com/gaviotas/AMN)|
-|Cross Language Image Matching for Weakly Supervised Semantic Segmentation | CLIMS | CVPR | Image+Language | [PDF](https://arxiv.org/pdf/2203.02668.pdf) | [CODE](https://github.com/CVI-SZU/CLIMS) | 
+|Cross Language Image Matching for Weakly Supervised Semantic Segmentation | CLIMS | CVPR | Image+Language | [PDF](https://arxiv.org/pdf/2203.02668.pdf) | [CODE](https://github.com/CVI-SZU/CLIMS) |
 | Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation | RCA | CVPR | Image | [PDF](https://arxiv.org/pdf/2203.09653.pdf) | [CODE](https://github.com/maeve07/RCA) |
 | Uncertainty Estimation via Response Scaling for Pseudo-mask Noise Mitigation in Weakly-supervised Semantic Segmentation | URN | AAAI | Image | [PDF](https://arxiv.org/pdf/2112.07431.pdf) | [CODE](https://github.com/XMed-Lab/URN)|
 | Looking Beyond Single Images for Weakly Supervised Semantic Segmentation Learning | MCIS | TPAMI | Image | [PDF](https://ieeexplore.ieee.org/abstract/document/9760057) | [CODE](https://github.com/GuoleiSun/MCIS_wsss) |
@@ -92,7 +93,7 @@
 | Weakly-Supervised Semantic Segmentation via Sub-category Exploration | SC-CAM | CVPR | Image | [PDF](https://arxiv.org/pdf/2008.01183.pdf) | [CODE](https://github.com/Juliachang/SC-CAM) |
 | Single-Stage Semantic Segmentation from Image Labels || CVPR | Image | [PDF](https://arxiv.org/pdf/2005.08104.pdf) | [CODE](https://github.com/visinf/1-stage-wseg) |
 | Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation | SEAM | CVPR | Image | [PDF](https://arxiv.org/pdf/2004.04581.pdf) | [CODE](https://github.com/YudeWang/SEAM)
-| Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation | ICD | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/js-fan/ICD) 
+| Learning Integral Objects With Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation | ICD | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/js-fan/ICD)
 | Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach || AAAI | Image | [PDF](https://arxiv.org/pdf/1911.08039.pdf) | CODE
 | CIAN: Cross-Image Afﬁnity Net for Weakly Supervised Semantic Segmentation | CIAN | AAAI | Image | [PDF](https://arxiv.org/pdf/1811.10842.pdf) | [CODE](https://github.com/js-fan/CIAN)
 | Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning || IJCV | Image | [PDF](https://arxiv.org/pdf/2002.08098.pdf) | CODE |
@@ -106,7 +107,7 @@
 | Integral Object Mining via Online Attention Accumulation | OAA | ICCV | Image | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Integral_Object_Mining_via_Online_Attention_Accumulation_ICCV_2019_paper.pdf) | [CODE](https://github.com/PengtaoJiang/OAA-PyTorch)
 | Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations | IRN | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf) | [CODE](https://github.com/jiwoon-ahn/irn)
 | Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation || ICCV | Image | [PDF](https://arxiv.org/pdf/1910.05475v2.pdf) | [CODE](https://github.com/yaoqi-zd/SGAN)
-| Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation |  SSNet | ICCV | Image | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Joint_Learning_of_Saliency_Detection_and_Weakly_Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf) | [CODE](https://github.com/zengxianyu/jsws) 
+| Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation |  SSNet | ICCV | Image | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Joint_Learning_of_Saliency_Detection_and_Weakly_Supervised_Semantic_Segmentation_ICCV_2019_paper.pdf) | [CODE](https://github.com/zengxianyu/jsws)
 | A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in Different Image Domains | | IJCV | ~~~~ | [PDF](https://arxiv.org/pdf/1912.11186.pdf) | [CODE](https://github.com/lyndonchan/wsss-analysis)
 
 ## 2018
@@ -118,7 +119,7 @@
 | Self-Erasing Network for Integral Object Attention | SeeNet | NeurIPS | Image | [PDF](https://proceedings.neurips.cc/paper/2018/file/c042f4db68f23406c6cecf84a7ebb0fe-Paper.pdf) | [CODE](https://github.com/Andrew-Qibin/SeeNet) |
 | Tell me where to look: Guided attention inference network | GAIN | CVPR | Image |[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Tell_Me_Where_CVPR_2018_paper.pdf)| [CODE](https://github.com/alokwhitewolf/Guided-Attention-Inference-Network) |
 
-## 2017 
+## 2017
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
 |Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach | AE-PSL | CVPR | Image | [PDF](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Object_Region_Mining_CVPR_2017_paper.pdf) | CODE|
