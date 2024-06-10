@@ -4,7 +4,7 @@
 ## 2024
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
-| Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation | AGMM++ ｜arXiv | Image + Point + Scribble | [PDF](https://arxiv.org/pdf/2403.13225) | [CODE](https://github.com/Luffy03/AGMM-SASS) | 
+| Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation | AGMM++ | arXiv | Image + Point + Scribble | [PDF](https://arxiv.org/pdf/2403.13225) | [CODE](https://github.com/Luffy03/AGMM-SASS) | 
 | Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation | SeCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2402.18467.pdf) | [CODE](https://github.com/zwyang6/SeCo) |
 | DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation | DuPL | CVPR | Image | [PDF](https://arxiv.org/pdf/2403.11184.pdf) | [CODE](https://github.com/Wu0409/DuPL) |
 | Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic Segmentation | AuxSegNet+ | TNNLS | Image | [PDF](https://arxiv.org/pdf/2403.01156.pdf) | [CODE](https://github.com/xulianuwa/AuxSegNet+) |
