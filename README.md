@@ -4,6 +4,7 @@
 ## 2024
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation | AGMM++ ｜arXiv | Image + Point + Scribble | [PDF](https://arxiv.org/pdf/2403.13225) | [CODE](https://github.com/Luffy03/AGMM-SASS) | 
 | Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation | SeCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2402.18467.pdf) | [CODE](https://github.com/zwyang6/SeCo) |
 | DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation | DuPL | CVPR | Image | [PDF](https://arxiv.org/pdf/2403.11184.pdf) | [CODE](https://github.com/Wu0409/DuPL) |
 | Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic Segmentation | AuxSegNet+ | TNNLS | Image | [PDF](https://arxiv.org/pdf/2403.01156.pdf) | [CODE](https://github.com/xulianuwa/AuxSegNet+) |
@@ -12,6 +13,7 @@
 ## 2023
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures | AGMM | CVPR | Scribble | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Sparsely_Annotated_Semantic_Segmentation_With_Adaptive_Gaussian_Mixtures_CVPR_2023_paper.pdf) | [CODE](https://github.com/Luffy03/AGMM-SASS) |
 | CUTS: A Framework for Multigranular Unsupervised Medical Image Segmentation | CUTS | arXiv | Image | [PDF](https://arxiv.org/pdf/2209.11359.pdf) | [CODE](https://github.com/ChenLiu-1996/CUTS) |
 | Spatial Structure Constraints for Weakly Supervised Semantic Segmentation | SSC | TIP | Image | [PDF](https://arxiv.org/pdf/2401.11122.pdf) | [CODE](https://github.com/NUST-Machine-Intelligence-Laboratory/SSC) |
 | Progressive Feature Self-reinforcement for Weakly Supervised Semantic Segmentation | PFSR | AAAI | Image | [PDF](https://arxiv.org/pdf/2312.08916.pdf) | [CODE](https://github.com/Jessie459/feature-self-reinforcement) |
