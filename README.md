@@ -7,6 +7,8 @@
 | Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation | AGMM++ | arXiv | Image + Point + Scribble | [PDF](https://arxiv.org/pdf/2403.13225) | [CODE](https://github.com/Luffy03/AGMM-SASS) | 
 | Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation | SeCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2402.18467.pdf) | [CODE](https://github.com/zwyang6/SeCo) |
 | DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation | DuPL | CVPR | Image | [PDF](https://arxiv.org/pdf/2403.11184.pdf) | [CODE](https://github.com/Wu0409/DuPL) |
+| From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation | S2C | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.pdf) | [CODE](https://github.com/sangrockEG/S2C) |
+| Class Tokens Infusion for Weakly Supervised Semantic Segmentation | CTI | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Yoon_Class_Tokens_Infusion_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | [CODE](https://github.com/yoon307/CTI) |
 | Auxiliary Tasks Enhanced Dual-affinity Learning for Weakly Supervised Semantic Segmentation | AuxSegNet+ | TNNLS | Image | [PDF](https://arxiv.org/pdf/2403.01156.pdf) | [CODE](https://github.com/xulianuwa/AuxSegNet+) |
 
 
