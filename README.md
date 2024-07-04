@@ -4,7 +4,8 @@
 ## 2024
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
-| Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation | AGMM++ | arXiv | Image + Point + Scribble | [PDF](https://arxiv.org/pdf/2403.13225) | [CODE](https://github.com/Luffy03/AGMM-SASS) | 
+| CUTS: A Deep Learning and Topological Framework for Multigranular Unsupervised Medical Image Segmentation | CUTS | MICCAI | Image | [PDF](https://arxiv.org/pdf/2209.11359.pdf) | [CODE](https://github.com/ChenLiu-1996/CUTS) |
+| Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation | AGMM++ | arXiv | Image + Point + Scribble | [PDF](https://arxiv.org/pdf/2403.13225) | [CODE](https://github.com/Luffy03/AGMM-SASS) |
 | Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation | SeCo | CVPR | Image | [PDF](https://arxiv.org/pdf/2402.18467.pdf) | [CODE](https://github.com/zwyang6/SeCo) |
 | DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation | DuPL | CVPR | Image | [PDF](https://arxiv.org/pdf/2403.11184.pdf) | [CODE](https://github.com/Wu0409/DuPL) |
 | From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation | S2C | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.pdf) | [CODE](https://github.com/sangrockEG/S2C) |
