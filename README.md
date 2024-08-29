@@ -4,6 +4,7 @@
 ## 2024
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation | WeClip | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | [CODE](https://github.com/zbf1991/WeCLIP) |
 | CUTS: A Deep Learning and Topological Framework for Multigranular Unsupervised Medical Image Segmentation | CUTS | MICCAI | Image | [PDF](https://arxiv.org/pdf/2209.11359.pdf) | [CODE](https://github.com/ChenLiu-1996/CUTS) |
 | Modeling the Label Distributions for Weakly-Supervised Semantic Segmentation | AGMM++ | arXiv | Image + Point + Scribble | [PDF](https://arxiv.org/pdf/2403.13225) | [CODE](https://github.com/Luffy03/AGMM-SASS) |
 | ToNNO: Tomographic Reconstruction of a Neural Network’s Output for Weakly Supervised Segmentation of 3D Medical Images | ToNNO | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Schmidt-Mengin_ToNNO_Tomographic_Reconstruction_of_a_Neural_Networks_Output_for_Weakly_CVPR_2024_paper.pdf) | [CODE]() |
