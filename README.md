@@ -4,6 +4,8 @@
 ## 2024
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation | DALNet | ECCV | Image | [PDF](https://arxiv.org/pdf/2409.15801) | [CODE]() |
+| Diffusion-Guided Weakly Supervised Semantic Segmentation | DiG | ECCV | Image | [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06482.pdf) | [CODE](https://github.com/yoon307/DiG) |
 | WeakCLIP: Adapting CLIP for Weakly-Supervised Semantic Segmentation | WeakCLIP | IJCV | Image | [PDF](https://link.springer.com/article/10.1007/s11263-024-02224-2) | [CODE](https://github.com/hustvl/WeakCLIP) |
 | Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation | WeClip | CVPR | Image | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.pdf) | [CODE](https://github.com/zbf1991/WeCLIP) |
 | CUTS: A Deep Learning and Topological Framework for Multigranular Unsupervised Medical Image Segmentation | CUTS | MICCAI | Image | [PDF](https://arxiv.org/pdf/2209.11359.pdf) | [CODE](https://github.com/ChenLiu-1996/CUTS) |
