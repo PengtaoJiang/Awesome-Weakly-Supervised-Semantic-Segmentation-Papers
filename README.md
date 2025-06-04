@@ -5,6 +5,7 @@
 ## 2025 
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Exploring CLIP's Dense Knowledge for Weakly Supervised Semantic Segmentation | ExCEL | CVPR | Image | [PDF](https://arxiv.org/pdf/2503.20826) | [CODE](https://github.com/zwyang6/ExCEL) |
 | Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP | VPL | AAAI | Image | [PDF](https://arxiv.org/pdf/2412.19650) | [CODE]() |
 ## 2024
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
